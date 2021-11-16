@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Reject">cdb16eb5829330109a6a7a30639e9fb9</button>
+        <color_theme>destructive</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Decline</label>
+        <location>footer</location>
+        <name>Decline</name>
+        <order>10</order>
+        <parent>c5b16eb5cc933010a649b108d5c6b7be</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-20 11:12:12</sys_created_on>
+        <sys_id>49b16eb5e29330103ee0249ad95548be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Decline</sys_name>
+        <sys_package display_value="ALERT" source="x_675399_alert">11b16eb5019330100b09ddc9161ea9d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ALERT">11b16eb5019330100b09ddc9161ea9d9</sys_scope>
+        <sys_update_name>sys_sg_button_instance_49b16eb5e29330103ee0249ad95548be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-20 11:12:12</sys_updated_on>
+        <table>x_675399_alert_request</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=49b16eb5e29330103ee0249ad95548be"/>
+</record_update>

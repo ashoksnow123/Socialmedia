@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit">cdb16eb5a69330103d9bb23f5781a3ba</button>
+        <button_parent_table>x_675399_alert_request</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>time_off_reason</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Reason (Optional)</name>
+        <order>30</order>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>time_off_reason</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-20 11:11:54</sys_created_on>
+        <sys_id>8db16eb527933010b0768a6627a09cba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reason (Optional)</sys_name>
+        <sys_package display_value="ALERT" source="x_675399_alert">11b16eb5019330100b09ddc9161ea9d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ALERT">11b16eb5019330100b09ddc9161ea9d9</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_8db16eb527933010b0768a6627a09cba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-20 11:11:54</sys_updated_on>
+        <table_name>x_675399_alert_request</table_name>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=8db16eb527933010b0768a6627a09cba"/>
+</record_update>

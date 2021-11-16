@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>true</click_in_mode>
+        <context_config_id display_value="Time Off">85b16eb56193301012852d878e70286b</context_config_id>
+        <limit>5</limit>
+        <order>100</order>
+        <section_header>Recent Searches</section_header>
+        <suggestion_type>Recent Search Reader Group for Time Off</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-14 20:14:47</sys_created_on>
+        <sys_id>05b16eb58b933010ae4d9411ff9c38c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recent Search Reader Group for Time Off</sys_name>
+        <sys_package display_value="ALERT" source="x_675399_alert">11b16eb5019330100b09ddc9161ea9d9</sys_package>
+        <sys_policy>null</sys_policy>
+        <sys_scope display_value="ALERT">11b16eb5019330100b09ddc9161ea9d9</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_05b16eb58b933010ae4d9411ff9c38c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-14 20:14:47</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

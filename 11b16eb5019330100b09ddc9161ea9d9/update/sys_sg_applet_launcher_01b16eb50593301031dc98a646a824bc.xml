@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button display_value="Jump Logged In User Profile">b4bafa0687103300a785940307cb0b3a</header_button>
+        <header_titles>cdb16eb5e793301022f4cd5bcd053abb</header_titles>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Dashboard</name>
+        <required_roles>x_675399_alert.manager,x_675399_alert.admin</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-20 11:12:22</sys_created_on>
+        <sys_id>01b16eb50593301031dc98a646a824bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard</sys_name>
+        <sys_package display_value="ALERT" source="x_675399_alert">11b16eb5019330100b09ddc9161ea9d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ALERT">11b16eb5019330100b09ddc9161ea9d9</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_01b16eb50593301031dc98a646a824bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-20 11:12:22</sys_updated_on>
+        <title>Dashboard</title>
+    </sys_sg_applet_launcher>
+</record_update>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="List">c9b16eb5a3933010500e411ac56b6683</macroponent>
+        <name>Screen Status Changed Handler</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({api, event, helpers, imports}) {
+    const { title, tooltipPreview, primaryItem, secondaryItems, hasUpdate, isDirty, status, screenParams } = event.payload;
+
+    helpers.screen.updateStatus({
+        title,
+        tooltipPreview,
+        primaryItem,
+        secondaryItems,
+        hasUpdate,
+        isDirty,
+        status,
+        screenParams: {
+            table: screenParams && screenParams.table,
+            sysId: screenParams && screenParams.sys_id
+        }
+    });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-20 11:12:49</sys_created_on>
+        <sys_id>cdb16eb51b9330105c848a19165a3689</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Screen Status Changed Handler</sys_name>
+        <sys_package display_value="ALERT" source="x_675399_alert">11b16eb5019330100b09ddc9161ea9d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ALERT">11b16eb5019330100b09ddc9161ea9d9</sys_scope>
+        <sys_update_name>sys_ux_client_script_cdb16eb51b9330105c848a19165a3689</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-20 11:12:49</sys_updated_on>
+    </sys_ux_client_script>
+</record_update>

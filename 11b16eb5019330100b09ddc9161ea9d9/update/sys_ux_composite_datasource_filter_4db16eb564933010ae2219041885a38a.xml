@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_datasource_filter">
+    <sys_ux_composite_datasource_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_condition/>
+        <condition table="x_675399_alert_request">requested_byDYNAMIC90d1921e5f510100a9ad2572f2b477fe^start_dateONThis year@javascript:gs.beginningOfThisYear()@javascript:gs.endOfThisYear()^EQ<item endquery="false" field="requested_by" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="false" field="start_date" goto="false" newquery="false" operator="ON" or="false" value="This year@javascript:gs.beginningOfThisYear()@javascript:gs.endOfThisYear()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <datasource display_value="Time Off Datasource">c9b16eb5de9330101c7afc2fdc6bf58a</datasource>
+        <datasource_table>x_675399_alert_request</datasource_table>
+        <filter display_value="Time Off All Requests">0db16eb5869330104247031d81b76a8a</filter>
+        <name>All Requests</name>
+        <sys_class_name>sys_ux_composite_datasource_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-20 11:12:14</sys_created_on>
+        <sys_id>4db16eb564933010ae2219041885a38a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Requests</sys_name>
+        <sys_package display_value="ALERT" source="x_675399_alert">11b16eb5019330100b09ddc9161ea9d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ALERT">11b16eb5019330100b09ddc9161ea9d9</sys_scope>
+        <sys_update_name>sys_ux_composite_datasource_filter_4db16eb564933010ae2219041885a38a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-20 11:12:14</sys_updated_on>
+    </sys_ux_composite_datasource_filter>
+</record_update>

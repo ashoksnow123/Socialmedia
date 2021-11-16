@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="to_navigation">c5b16eb59f933010ce4f37e77df4b4a1</declarative_action_assignment>
+        <predicate display_value="Time Off Config  - All EDIT">8db16eb5d9933010f67e3a6697464e8b</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-20 11:12:37</sys_created_on>
+        <sys_id>c1b16eb58793301079906f6be6cf579a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ALERT" source="x_675399_alert">11b16eb5019330100b09ddc9161ea9d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ALERT">11b16eb5019330100b09ddc9161ea9d9</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_c1b16eb58793301079906f6be6cf579a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-20 11:12:37</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

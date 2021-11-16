@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order>2</order>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-21 07:25:20</sys_created_on>
+        <sys_id>91477e8a2f533010586c59a72799b66f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>fe8887852f133010586c59a72799b6d4</sys_name>
+        <sys_package display_value="ALERT" source="x_675399_alert">11b16eb5019330100b09ddc9161ea9d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ALERT">11b16eb5019330100b09ddc9161ea9d9</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_91477e8a2f533010586c59a72799b66f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-21 07:25:28</sys_updated_on>
+        <test display_value="ATF Test For Catalog Item">fe8887852f133010586c59a72799b6d4</test>
+        <test_suite display_value="My New Test Suite">81d6b68a2f533010586c59a72799b6dd</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>

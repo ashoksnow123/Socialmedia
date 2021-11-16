@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Dashboard">01b16eb50593301031dc98a646a824bc</applet_launcher>
+        <order>10</order>
+        <section display_value="Awaiting Approval">89b16eb539933010fb1cea72dd62f5bc</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-20 11:11:56</sys_created_on>
+        <sys_id>c9b16eb56b933010a282ab89b6a9fbbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ALERT" source="x_675399_alert">11b16eb5019330100b09ddc9161ea9d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ALERT">11b16eb5019330100b09ddc9161ea9d9</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_c9b16eb56b933010a282ab89b6a9fbbc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-20 11:11:56</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

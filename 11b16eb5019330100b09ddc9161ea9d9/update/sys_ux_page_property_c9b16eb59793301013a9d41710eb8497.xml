@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description> &#13;
+&#13;
+added:       "viewportElementId": "wsCornerDialog"&#13;
+    },</description>
+        <name>chrome_toolbar</name>
+        <page display_value="ALERT workspace">0db16eb5a993301030d8cd9684345597</page>
+        <required_translations>[{"message":"Lists","comment":""},{"message":"Home","comment":""}]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-20 11:11:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>c9b16eb59793301013a9d41710eb8497</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="ALERT" source="x_675399_alert">11b16eb5019330100b09ddc9161ea9d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ALERT">11b16eb5019330100b09ddc9161ea9d9</sys_scope>
+        <sys_update_name>sys_ux_page_property_c9b16eb59793301013a9d41710eb8497</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-20 11:11:59</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_675399_alert.0db16eb5a993301030d8cd9684345597.root.chrome_toolbar</unique_name>
+        <value>[&#13;
+  {&#13;
+    "id": "dashboard",&#13;
+   "label": {&#13;
+                  "translatable": true,&#13;
+                  "message": "Home"&#13;
+                },&#13;
+    "icon": "home-outline",&#13;
+    "viewportInfo": {},&#13;
+    "routeInfo": {&#13;
+      "route": "dashboard"&#13;
+    },&#13;
+    "group": "top",&#13;
+    "badge": {},&#13;
+    "presence": {},&#13;
+    "availability": {}&#13;
+  },&#13;
+  {&#13;
+    "id": "list",&#13;
+    "label": {&#13;
+                  "translatable": true,&#13;
+                  "message": "Lists"&#13;
+                },&#13;
+    "icon": "list-outline",&#13;
+    "viewportInfo": {},&#13;
+    "routeInfo": {&#13;
+      "route": "list"&#13;
+    },&#13;
+    "group": "top",&#13;
+    "badge": {},&#13;
+    "presence": {},&#13;
+    "availability": {}&#13;
+  }&#13;
+]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=c9b16eb59793301013a9d41710eb8497"/>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_675399_alert.employee" name="x_675399_alert.employee">4db16eb57d9330104bc59273423e93b4</contains>
+        <role display_value="x_675399_alert.manager" name="x_675399_alert.manager">41b16eb59f93301024a297cc6dcb87a7</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-20 11:12:18</sys_created_on>
+        <sys_id>0db16eb59693301017d2ed4ffc766d78</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ALERT" source="x_675399_alert">11b16eb5019330100b09ddc9161ea9d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ALERT">11b16eb5019330100b09ddc9161ea9d9</sys_scope>
+        <sys_update_name>sys_user_role_contains_0db16eb59693301017d2ed4ffc766d78</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-20 11:12:18</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
